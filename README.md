@@ -1,6 +1,8 @@
 
 #GitHub einstaklingsverkefni 
 
+Unnið af Thomas Ari Plank
+
 ##Árekstur (branches and merge)
 
 <ol>
